@@ -3,8 +3,8 @@
 # SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
 # IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
 # SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
-# Start of session at: Thu Jan 25 15:46:54 2024
-# Process ID: 11032
+# Start of session at: Fri Jan 26 12:00:42 2024
+# Process ID: 41080
 # Current directory: C:/VivadoProjects/fullAdder2Bit_Structural/fullAdder2Bit_Structural.runs/synth_1
 # Command line: vivado.exe -log fullAdder_2Bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fullAdder_2Bit.tcl
 # Log file: C:/VivadoProjects/fullAdder2Bit_Structural/fullAdder2Bit_Structural.runs/synth_1/fullAdder_2Bit.vds

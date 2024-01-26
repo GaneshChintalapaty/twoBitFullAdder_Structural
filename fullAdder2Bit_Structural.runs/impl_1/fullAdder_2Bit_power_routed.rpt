@@ -1,7 +1,7 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version     : Vivado v.2023.1 (win64) Build 3865809 Sun May  7 15:05:29 MDT 2023
-| Date             : Thu Jan 25 15:48:33 2024
+| Date             : Fri Jan 26 12:02:10 2024
 | Host             : WorkLaptop running 64-bit major release  (build 9200)
 | Command          : report_power -file fullAdder_2Bit_power_routed.rpt -pb fullAdder_2Bit_power_summary_routed.pb -rpx fullAdder_2Bit_power_routed.rpx
 | Design           : fullAdder_2Bit
@@ -30,10 +30,10 @@ Table of Contents
 ----------
 
 +--------------------------+--------------+
-| Total On-Chip Power (W)  | 1.639        |
+| Total On-Chip Power (W)  | 1.640        |
 | Design Power Budget (W)  | Unspecified* |
 | Power Budget Margin (W)  | NA           |
-| Dynamic (W)              | 1.555        |
+| Dynamic (W)              | 1.556        |
 | Device Static (W)        | 0.084        |
 | Effective TJA (C/W)      | 1.9          |
 | Max Ambient (C)          | 81.9         |
@@ -57,7 +57,7 @@ Table of Contents
 | Signals        |     0.036 |        8 |       --- |             --- |
 | I/O            |     1.508 |        8 |       300 |            2.67 |
 | Static Power   |     0.084 |          |           |                 |
-| Total          |     1.639 |          |           |                 |
+| Total          |     1.640 |          |           |                 |
 +----------------+-----------+----------+-----------+-----------------+
 
 
@@ -67,7 +67,7 @@ Table of Contents
 +-----------+-------------+-----------+-------------+------------+-------------+-------------+------------+
 | Source    | Voltage (V) | Total (A) | Dynamic (A) | Static (A) | Powerup (A) | Budget (A)  | Margin (A) |
 +-----------+-------------+-----------+-------------+------------+-------------+-------------+------------+
-| Vccint    |       1.000 |     0.091 |       0.067 |      0.024 |       NA    | Unspecified | NA         |
+| Vccint    |       1.000 |     0.092 |       0.068 |      0.024 |       NA    | Unspecified | NA         |
 | Vccaux    |       1.800 |     0.134 |       0.122 |      0.012 |       NA    | Unspecified | NA         |
 | Vcco33    |       3.300 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
 | Vcco25    |       2.500 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
@@ -135,7 +135,7 @@ Table of Contents
 +----------------+-----------+
 | Name           | Power (W) |
 +----------------+-----------+
-| fullAdder_2Bit |     1.555 |
+| fullAdder_2Bit |     1.556 |
 +----------------+-----------+
 
 
