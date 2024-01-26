@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/VivadoProjects/fullAdder2Bit_Structural/fullAdder2Bit_Structural.srcs/sources_1/new/fullAdder_2Bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fullAdder_2Bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/VivadoProjects/fullAdder2Bit_Structural/fullAdder2Bit_Structural.srcs/sim_1/new/testBench_FullAdder2Bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testBench_FullAdder2Bit
+WARNING: [VRFC 10-2096] empty statement in sequential block [C:/VivadoProjects/fullAdder2Bit_Structural/fullAdder2Bit_Structural.srcs/sim_1/new/testBench_FullAdder2Bit.v:41]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testBench_FullAdder2Bit_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testBench_FullAdder2Bit" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="320.001 ns"></ZoomEndTime>
+      <Cursor1Time time="320.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="142"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/testBench_FullAdder2Bit/a" type="array">
+      <obj_property name="ElementShortName">a[1:0]</obj_property>
+      <obj_property name="ObjectShortName">a[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench_FullAdder2Bit/b" type="array">
+      <obj_property name="ElementShortName">b[1:0]</obj_property>
+      <obj_property name="ObjectShortName">b[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench_FullAdder2Bit/carryIn" type="logic">
+      <obj_property name="ElementShortName">carryIn</obj_property>
+      <obj_property name="ObjectShortName">carryIn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench_FullAdder2Bit/sum" type="array">
+      <obj_property name="ElementShortName">sum[1:0]</obj_property>
+      <obj_property name="ObjectShortName">sum[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testBench_FullAdder2Bit/carryOut" type="logic">
+      <obj_property name="ElementShortName">carryOut</obj_property>
+      <obj_property name="ObjectShortName">carryOut</obj_property>
+   </wvobject>
+</wave_config>
