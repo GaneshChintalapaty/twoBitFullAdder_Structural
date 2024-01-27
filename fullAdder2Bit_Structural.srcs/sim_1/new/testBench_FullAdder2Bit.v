@@ -66,7 +66,7 @@ fullAdder_2Bit uut (
         a = 2'b00;
         b = 2'b10;
         carryIn = 1;
-        #10;;
+        #10;
         
         a = 2'b00;
         b = 2'b11;
